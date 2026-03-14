@@ -1,4 +1,4 @@
 # first_repo
 this is my first repository and i am using this to learn git and github.
 <br>
-Author - Rohan Misrha (From CGC University Mohali)
+Author - Rohan Mishra (From CGC University Mohali)
